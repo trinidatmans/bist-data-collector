@@ -1,0 +1,12 @@
+yfinance
+requests
+beautifulsoup4
+pandas
+sqlalchemy
+psycopg2-binary
+schedule
+python-dotenv
+lxml
+selenium
+aiohttp
+loguru
